@@ -28,7 +28,7 @@ let intervalId = setInterval(function () {
     snake.snakeMove();
     snake.drawSnake();
     apple.drawApple();
-}, 500);
+}, 100);
 
 /*FUNCTIONS------------------------------------------------------------------------------------------*/
 
